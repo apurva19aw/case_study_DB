@@ -1,2 +1,4 @@
 # case_study_DB
-A program that reads the data from the CSV file and makes it available via a REST endpoint. The endpoint should be queried with the abbreviation of a service and return the data of the operating point as a JSON object.
+Erstelle ein Programm, das die Daten aus der CSV-Datei einliest und über einen REST-Endpoint zur Verfügung
+stellt. Der Endpunkt soll mit der Abkürzung einer Betriebsstelle angefragt werden und die Daten der
+Betriebsstelle als JSON-Objekt zurück liefern.
